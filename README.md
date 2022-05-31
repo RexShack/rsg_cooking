@@ -19,8 +19,8 @@
 - add cooked_meat and cooked_fishmeat as consumables (path below)
 
 # QBCore Consumables
-qbr-smallresources\client\consumables.lua
-qbr-smallresources\server\consumables.lua
+- qbr-smallresources\client\consumables.lua
+- qbr-smallresources\server\consumables.lua
 
 # Starting the resource:
 - add the following to your server.cfg file : ensure rsg_cooking
