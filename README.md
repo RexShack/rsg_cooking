@@ -8,7 +8,7 @@
 
 # Dependancies:
 - qbr-core : https://github.com/qbcore-redm-framework
-- rsg_notify : https://github.com/RexShack/rsg_notify
+- qbr-menu : https://github.com/qbcore-redm-framework/qbr-menu
 
 # Installation:
 - ensure that the dependancies are added and started
@@ -16,6 +16,11 @@
 - add items to your "\qbr-core\shared\items.lua"
 - add images to your "\qbr-inventory\html\images"
 - add cookkit to your store / use to create cooking spot
+- add cooked_meat and cooked_fishmeat as consumables (path below)
+
+# QBCore Consumables
+qbr-smallresources\client\consumables.lua
+qbr-smallresources\server\consumables.lua
 
 # Starting the resource:
 - add the following to your server.cfg file : ensure rsg_cooking
